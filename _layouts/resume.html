@@ -56,13 +56,13 @@
           <h2>Experience</h2>
         </header>
 
-        {% for job in site.data.experience %}
-        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
-          <p class="resume-item-copy">{{ job.summary }}</p>
-        </div><!-- end of resume-item -->
-        {% endfor %}
+		{% for job in site.data.experience %}
+		<div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+		  <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
+		  <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
+		  <p class="resume-item-copy">{{ job.summary }}</p>
+		</div><!-- end of resume-item -->
+		{% endfor %}
 
       </section>
       <!-- end Experience -->
@@ -155,6 +155,30 @@
       <!-- end Recognition -->
       {% endif %}
 
+	  {% if site.resume_section_accomplishments %}
+      <!-- begin Accomplishments -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Accomplishments</h2>
+        </header>
+
+        {% for accomplishment in site.data.accomplishments %}
+        <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">
+			{% if accomplishment.url %}<a href="{{ accomplishment.url }}">{{ accomplishment.name }}</a>{% else %}{{ accomplishment.name }}{% endif %}
+		  </h3>
+          <p class="resume-item-details" itemprop="description">
+			{{ accomplishment.organization }} &bull; {{ accomplishment.year }}
+		  </p>
+          <p class="resume-item-copy">{{ accomplishment.summary }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Accomplishments -->
+      {% endif %}
+	  
       {% if site.resume_section_associations %}
       <!-- begin Associations -->
       <section class="content-section">
@@ -229,7 +253,7 @@
 
       </section>
       <!-- end Print Social Links -->
-      {% endif %}
+      {% endif %}	  
 
     </div>
 
