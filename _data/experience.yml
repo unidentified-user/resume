@@ -1,13 +1,15 @@
 # Jobs
 - company: Robin
   position: Data Analyst Intern
-  duration: Mar, 2019 &mdash; Jun, 2019
+  location: Israel, Tel-Aviv
+  duration: Mar 2019 &mdash; Jun 2019
   summary: During the internship, I was assigned to tasks related to the time-series analysis, analytics of mobile applications and customer analytics.
 
 
 - company: Temwork Retail
   position: BI Developer
-  duration: Sep, 2017  &mdash; Oct, 2018
+  location: Ukraine, Kharkiv
+  duration: Sep 2017  &mdash; Oct 2018
   summary: <ul class="resume-item-list">
                 <li>Work with Big Data</li>
                 <li>Handling, cleaning and preparing data</li>
