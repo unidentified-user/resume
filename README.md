@@ -41,19 +41,15 @@ To setup your GH Pages site with a custom domain, [follow the instructions](http
 
 Right now resume-template only has one theme. More are coming :soon: though. :heart:
 
-## Roadmap
-
-A feature roadmap is [available here](https://github.com/jglovier/resume-template/projects/1). If you features suggestions, please [open a new issue](https://github.com/jglovier/resume-template/issues/new).
-
 ## Contributing
 
 If you spot a bug, or want to improve the code, or even make the dummy content better, you can do the following:
 
-1. [Open an issue](https://github.com/jglovier/resume-template/issues/new) describing the bug or feature idea
+1. [Open an issue](https://github.com/MaximShovkun/maximshovkun.github.io/issues/new) describing the bug or feature idea
 2. Fork the project, make changes, and submit a pull request
 
 ## License
 
 The code and styles are licensed under the MIT license. [See project license.](LICENSE) Obviously you should not use the content of this demo repo in your own resume. :wink:
 
-Disclaimer: Use of Homer J. Simpson image and name used under [Fair Use](https://en.wikipedia.org/wiki/Fair_use) for educational purposes. Project license does not apply to use of this material.
+Disclaimer: Use of Lisa M. Simpson image and name used under [Fair Use](https://en.wikipedia.org/wiki/Fair_use) for educational purposes. Project license does not apply to use of this material.
