@@ -20,10 +20,16 @@ resume_contact_email:           "maximshovkun95@gmail.com"
 resume_contact_telephone:       "058-489-30-57"
 resume_contact_address:         "Israel, Tel-Aviv"
 
-resume_header_contact_info:     "Israel, Tel-Aviv • (+972)58-489-30-57 • maximshovkun95@gmail.com"
+resume_header_contact_info:     "Israel, Tel-Aviv District •
+                                (+972)58-489-30-57 •
+                                maximshovkun95@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I have advanced mathematical skills, a strong background in probability theory and statistics, good analytical skills and relevant hands-on experience with big data. Curious, ambitious and responsible learner, striving to develop and eager for challenges.</p>"
+resume_header_intro: "<p>I have advanced mathematical skills, a strong
+background in probability theory and statistics, good analytical skills,
+proficiency with machine learning algorithms and relevant hands-on experience
+with big data. Curious, ambitious and responsible learner, striving to develop
+and eager for challenges.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -49,6 +55,7 @@ resume_social_links:
   resume_github_url:            "https://github.com/MaximShovkun"
   resume_facebook_url:          "https://www.facebook.com/maxim.shovkun"
   resume_linkedin_url:          "https://www.linkedin.com/in/maxim-shovkun"
+  # resume_hackerrank_url:        "https://www.hackerrank.com/Rosenstein"
 resume_print_social_links:      true
 
 # Design settings

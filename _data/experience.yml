@@ -1,9 +1,14 @@
 # Jobs
 - company: Robin
-  position: Data Analyst Intern
+  position: Data Analyst
   location: Israel, Tel-Aviv
   duration: Mar 2019 &mdash; Jun 2019
-  summary: During the internship, I was assigned to tasks related to the time-series analysis, analytics of mobile applications and customer analytics.
+  summary: <ul class="resume-item-list">
+                <li>Analytics of customer behaviour</li>
+                <li>Time-series analysis for investment funds</li>
+                <li>Mobile analytics</li>
+                <li>Predictive and descriptive analysis</li>
+            </ul>
 
 
 - company: Teamwork Retail
@@ -17,5 +22,6 @@
                 <li>Writing relational and multidimensional database queries</li>
                 <li>Analysis and visualization of accumulated data</li>
                 <li>Develop and design dashboards</li>
-            </ul> 
-  tools: "Technologies: BigQuery, Looker, SQL Server </br> Programming languages: Python, SQL"
+            </ul>
+  tools: "Technologies: BigQuery, Looker, SQL Server </br>
+          Programming languages: Python, SQL"
