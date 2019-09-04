@@ -14,7 +14,7 @@ resume_name:                    "Maxim Shovkun"
 resume_title:                   "Data Analyst | Data Science Enthusiast"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "maximshovkun95@gmail.com"
+resume_contact_email:           "maxim.shovkun.tm@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "058-489-30-57"
@@ -22,7 +22,7 @@ resume_contact_address:         "Israel, Tel-Aviv"
 
 resume_header_contact_info:     "Israel, Tel-Aviv District •
                                 (+972)58-489-30-57 •
-                                maximshovkun95@gmail.com"
+                                maxim.shovkun.tm@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I have advanced mathematical skills, a strong
