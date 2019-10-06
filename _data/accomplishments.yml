@@ -1,23 +1,18 @@
 # Accompishments
 # comment out the urls if you do not wish to display them
 
-- name: Math and Python for data analysis
+- name: Dive Into Python
   organization: Coursera Course Certificates
-  year: Jul 2017
-  url: https://www.coursera.org/account/accomplishments/certificate/UX6E4CWY5UH2
-  
-- name: Introduction to databases
-  organization: Stepik
-  year: Mar 2018
-  url: https://stepik.org/certificate/8e3a6194a604ac470880ea7fb520e4b34275d0e3.pdf
-  
-- name: Basic statistics
-  organization: Stepik
-  year: Mar 2018
-  url: https://stepik.org/certificate/a96edb77da1499497a2d8c273a979e4f36055cef.pdf
-  
-- name: Exploring ​and ​Preparing ​your ​Data with BigQuery
+  year: Aug 2019
+  url: https://www.coursera.org/account/accomplishments/certificate/T3Y8CV68MK5L
+ 
+- name: Exploring and Preparing your Data with BigQuery
   organization: Coursera Course Certificates
   year: Jul 2018
   url: https://www.coursera.org/account/accomplishments/certificate/TJMYVAVYP234
 
+- name: Math and Python for data analysis
+  organization: Coursera Course Certificates
+  year: Jul 2017
+  url: https://www.coursera.org/account/accomplishments/certificate/UX6E4CWY5UH2 
+  
