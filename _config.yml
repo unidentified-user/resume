@@ -1,5 +1,5 @@
 # Site settings
-title: "Maxim Shovkun"
+title: "Max Stein"
 description: "CV on GitHub Pages sites."
 
 # Build settings
@@ -10,11 +10,11 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "Maxim Shovkun"
+resume_name:                    "Max Stein"
 resume_title:                   "Data Analyst | Data Science Enthusiast"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "maxim.shovkun.tm@gmail.com"
+resume_contact_email:           "max.stein.tm@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "058-489-30-57"
@@ -22,7 +22,7 @@ resume_contact_address:         "Israel, Tel-Aviv"
 
 resume_header_contact_info:     "Israel, Tel-Aviv District •
                                 (+972)58-489-30-57 •
-                                maxim.shovkun.tm@gmail.com"
+                                max.stein.tm@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I have advanced mathematical skills, a strong
@@ -52,9 +52,9 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/MaximShovkun"
+  resume_github_url:            "https://github.com/unidentified-user"
   resume_facebook_url:          "https://www.facebook.com/maxim.shovkun"
-  resume_linkedin_url:          "https://www.linkedin.com/in/maxim-shovkun"
+  resume_linkedin_url:          "https://www.linkedin.com/in/unidentified-user"
   # resume_hackerrank_url:        "https://www.hackerrank.com/Rosenstein"
 resume_print_social_links:      true
 
